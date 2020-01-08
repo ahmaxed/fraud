@@ -1,0 +1,18 @@
+{
+  "name": "fraud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "app": "node index.js",
+    "unsubscribe": "node unsubscribe.js",
+    "refund": "node refund.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "stripe": "^7.15.0"
+  }
+}
