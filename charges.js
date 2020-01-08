@@ -1,5 +1,5 @@
 exports.array = [
-  "ch_1FroShFI1KEgscdTXjDl9rIb",
-  "ch_1FroShFI1KEgscdTXjDl9rI3",
+  "ch_1FspiTFI1KEgscdTXh2doFVC",
+  "ch_1FrktJFI1KEgscdTzEh4dgF1",
   "ch_1FroShFI1KEgscdTXjDl9rIt"
 ];
