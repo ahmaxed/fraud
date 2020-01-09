@@ -13,6 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^8.2.0",
+    "stdio": "^2.0.1",
     "stripe": "^7.15.0"
   }
 }
